@@ -30,7 +30,7 @@ function App() {
 
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ['home', 'about', 'expertise', 'projects', 'testimonials', 'contact'];
+      const sections = ['home', 'about', 'experience', 'projects', 'testimonials', 'contact'];
       const current = sections.find(section => {
         const element = document.getElementById(section);
         if (element) {
