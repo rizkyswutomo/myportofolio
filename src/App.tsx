@@ -250,7 +250,7 @@ function App() {
             <div className="relative">
               <div className="relative z-10">
                 <img
-                  src="https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=800"
+                  src="/WhatsApp Image 2025-03-17 at 01.35.26_a3194f81.jpg"
                   alt="Professional headshot"
                   className="w-full max-w-lg mx-auto rounded-2xl shadow-2xl"
                 />
